@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Dosis')
+
+;#header {color: #7fdaf4; font-family: raleway, dosis, arial; 
+	font-size: 40px; text-align: center;}
+
+
+#intro {color:#323232; font-family: raleway, dosis, arial; 
+	font-size: 28px; text-align: center;}
+h3 {color: #b4e6f4; font-family: raleway, dosis, arial; 
+	font-size: 24px; text-align: center;}
+#descrp {color:323232; font-family: raleway, dosis, arial; 
+	font-size: 22px; text-align: center;}
+h2 {color:#b4e6f4; font-family: raleway, dosis, arial; 
+	font-size: 36px; text-align: center;}
+a {font-family: raleway, dosis, arial; 
+	font-size: 22px; text-align: center;}
+div {text-align: center;} 
+
+html {background-color: #f4f4f4;}
+
+a:link {color:#b4e6f4; font-family: raleway, dosis, arial;}
+a:visited {color:#88d6ed; font-family: raleway, dosis, arial;}
+a:hover {color:#f4bdd4; font-family: raleway, dosis, arial;}
